@@ -12,7 +12,7 @@
 
 ## Sobre ##
 
-Projeto onde desenvolvi uma #UIClone do Youtube, com Material UI, seguindo o tutorial do [Youtube](https://www.youtube.com/watch?v=u9FnmBdBl5k)
+Projeto onde desenvolvi uma #UIClone do Youtube, com Material UI, seguindo o tutorial do [Youtube](https://www.youtube.com/watch?v=u9FnmBdBl5k) do canal do Lucas Nhimi.
 
 Para testar a aplicação rodando em tempo real, clique aqui: https://csb-32cgw.netlify.app/
 
